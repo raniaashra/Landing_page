@@ -1,2 +1,2 @@
-# Landing_page
-make smooth scroll by javascript
+# landing-page-1
+ smooth scroll 
